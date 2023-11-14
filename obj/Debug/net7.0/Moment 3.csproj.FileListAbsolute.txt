@@ -1,0 +1,14 @@
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.AssemblyInfoInputs.cache
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.AssemblyInfo.cs
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.csproj.CoreCompileInputs.cache
+/Users/robertopiranamedi/Desktop/Moment 3/bin/Debug/net7.0/Moment 3
+/Users/robertopiranamedi/Desktop/Moment 3/bin/Debug/net7.0/Moment 3.deps.json
+/Users/robertopiranamedi/Desktop/Moment 3/bin/Debug/net7.0/Moment 3.runtimeconfig.json
+/Users/robertopiranamedi/Desktop/Moment 3/bin/Debug/net7.0/Moment 3.dll
+/Users/robertopiranamedi/Desktop/Moment 3/bin/Debug/net7.0/Moment 3.pdb
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.dll
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/refint/Moment 3.dll
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.pdb
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/Moment 3.genruntimeconfig.cache
+/Users/robertopiranamedi/Desktop/Moment 3/obj/Debug/net7.0/ref/Moment 3.dll
